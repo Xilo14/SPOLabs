@@ -16,7 +16,7 @@ namespace Lab2SPO
             Input();
 
             Process proc = new Process();
-            proc.StartInfo.FileName = @"D:\Учёба\CiSharp2019Studio\spo 2020\Lab2SPO child\obj\Release\netcoreapp3.1\Lab2SPO child.exe";
+            proc.StartInfo.FileName = @"D:\Учёба\CiSharp2019Studio\spo 2020\Lab2SPOChild\bin\Release\Lab2SPOChild.exe";
             proc.Start();
             Thread.Sleep(1000);
             Thread thr = new Thread(new ThreadStart(ServerThread));
@@ -26,7 +26,7 @@ namespace Lab2SPO
         }
 
         private static void Input()
-        {      
+        {
             Console.WriteLine("Input a: ");
             a = Convert.ToInt32(Console.ReadLine());
 
@@ -49,7 +49,7 @@ namespace Lab2SPO
                     {
                         Console.WriteLine("Connected.");
                         bw.Write(a);
-                        bw.Write(b);                        
+                        bw.Write(b);
                     }
                     pipeParent.WaitForPipeDrain();
                     Thread.Sleep(4000);
