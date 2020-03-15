@@ -13,22 +13,24 @@ namespace spo2_child
     {
         static void Main(string[] args)
         {
-
-            Process child = new Process();
-            using (AnonymousPipeServerStream pipeServer =
-              new AnonymousPipeServerStream(PipeDirection.Out, HandleInheritability.Inheritable))
-            {////////////////////////////// запуск потомка
-                child.StartInfo.Arguments = "1 7 " + pipeServer.GetClientHandleAsString();
-                child.StartInfo.UseShellExecute = false;
-                child.StartInfo.FileName = @"d:\ProjectC#\неименованные каналы\ spo2_child.exe";
-                child.Start();
-                /////////////////////////////// запись в канал
-                BinaryWriter sr = new BinaryWriter(pipeServer);
-                sr.Write(x.Length);
-                foreach (int current in x)
-                    sr.Write(current);
-                pipeServer.WaitForPipeDrain();
-
+            int[] x;
+            string server_handle;
+            if (args.Length < 3) Console.WriteLine("Недостаточно параметров");
+            else
+            {
+                server_handle = args[2];
+                using (PipeStream pipeClient = new AnonymousPipeClientStream(PipeDirection.In, server_handle))
+                {
+                    BinaryReader sr = new BinaryReader(pipeClient);
+                    int count = sr.ReadInt32();
+                    x = new int[count];
+                    for (int i = 0; i < count; i++)
+                        x[i] = sr.ReadInt32();
+                    sr.Close();
+                    
+                }
             }
+
         }
     }
+}
