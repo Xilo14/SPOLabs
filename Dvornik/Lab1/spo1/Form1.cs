@@ -18,9 +18,9 @@ namespace spo1
         {
             InitializeComponent();
             RegistryKey currentUserKey = Registry.LocalMachine;
-            RegistryKey Key = currentUserKey.OpenSubKey("HARDWARE\\DESCRIPTION\\System\\SystemManufacturer");
-            textBox1.Text = Key.GetValue("ProcessorNameString").ToString();
-            textBox2.Text = Key.GetValue("~MHz").ToString();
+            RegistryKey Key = currentUserKey.OpenSubKey("HARDWARE\\DESCRIPTION\\System\\BIOS");
+            textBox1.Text = Key.GetValue("SystemManufacturer").ToString();
+            
 
         }
 
@@ -32,17 +32,17 @@ namespace spo1
             DvornikKey.SetValue("DATE", DateTime.Now);
             DvornikKey.Close();
             Key.Close();
-            MessageBox.Show("Done");
+            MessageBox.Show("Gotovo", "Дан", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         private void Button2_Click(object sender, EventArgs e)
         {
             RegistryKey currentUserKey = Registry.CurrentUser;
-            RegistryKey key = currentUserKey.OpenSubKey("SOFTWARE\\YurokkeKey", true);
-            key.DeleteValue("datetoday");// удаляем значение из ключа
+            RegistryKey key = currentUserKey.OpenSubKey("SOFTWARE\\Dvornik", true);
+            key.DeleteValue("DATE");// удаляем значение из ключа
             key = currentUserKey.OpenSubKey("SOFTWARE", true);
-            key.DeleteSubKey("YurokkeKey");// удаляем вложенный ключ
+            key.DeleteSubKey("Dvornik");// удаляем вложенный ключ
             key.Close();
-            MessageBox.Show("Done");
+            MessageBox.Show("Gotovo", "Дан", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void Button3_Click(object sender, EventArgs e)
@@ -51,7 +51,7 @@ namespace spo1
             RegistryKey Key = currentUserKey.OpenSubKey("Control Panel\\Desktop", true);
             Key.SetValue("ScreenSaveIsSecure", "0");
             Key.Close();
-            MessageBox.Show("Done");
+            MessageBox.Show("Gotovo", "Дан", MessageBoxButtons.OK,MessageBoxIcon.Information);
         }
     }
 
