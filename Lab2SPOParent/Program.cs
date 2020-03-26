@@ -10,6 +10,8 @@ namespace Lab2SPO
     {
         static int a;// = 1;
         static int b;// = 4;
+        static string s;
+
         static NamedPipeServerStream pipeParent;
         static void Main()
         {
@@ -27,12 +29,15 @@ namespace Lab2SPO
 
         private static void Input()
         {
+
+            Console.WriteLine("Input Array: ");
+            s = Console.ReadLine();    
+
             Console.WriteLine("Input a: ");
             a = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Input b: ");
             b = Convert.ToInt32(Console.ReadLine());
-
         }
         private static void ServerThread()
         {
@@ -50,9 +55,9 @@ namespace Lab2SPO
                         Console.WriteLine("Connected.");
                         bw.Write(a);
                         bw.Write(b);
+                        bw.Write(s);
                     }
                     pipeParent.WaitForPipeDrain();
-                    Thread.Sleep(4000);
 
                     Console.WriteLine("Result: {0} ", br.ReadString());
 

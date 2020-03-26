@@ -54,9 +54,9 @@ namespace spo2_parent
                     + ' ' + pipeServerIn.GetClientHandleAsString();
                 child.StartInfo.UseShellExecute = false;
                 //child.StartInfo.FileName =
-                //    @"F:\Repos\Visual stdio\SPOLabs\Dvornik\Lab2\spo2_child\bin\Debug\spo2_child.exe";
+                //    @"..\..\..\spo2_child\bin\Debug\spo2_child.exe";
                 child.StartInfo.FileName =
-                    @"F:\Repos\Visual stdio\SPOLabs\Dvornik\Lab2\spo_child_forms\bin\Debug\spo_child_forms.exe";
+                    @"..\..\..\spo_child_forms\bin\Debug\spo_child_forms.exe";
                 child.Start();
 
                 
