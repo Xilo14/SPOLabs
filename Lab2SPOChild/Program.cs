@@ -8,12 +8,19 @@ namespace Lab2SPO_child
 {
     class PipeChild
     {
-        static void Main()
+        static void Main(string[] args)
         {
+
             string OUT = "";
-            int A, B, i, j,n, posA=-1,posB=-1;
+            int A=0, B=0, i, j,n, posA=-1,posB=-1;
             string S;
             float sm = 0;
+            if (args.Length < 2) { Console.WriteLine("Недостаточно параметров"); OUT = "Недостаточно параметров!"; }
+            else
+            {
+                A = Convert.ToInt32(args[0]);
+                B = Convert.ToInt32(args[1]);
+            }
             using (NamedPipeClientStream pipeClient = new NamedPipeClientStream(".", "PleaseFindMe", PipeDirection.InOut))
             using (BinaryWriter bw = new BinaryWriter(pipeClient))
             using (BinaryReader br = new BinaryReader(pipeClient))
@@ -24,8 +31,6 @@ namespace Lab2SPO_child
                 Console.WriteLine("There are currently {0} pipe server instances open.", pipeClient.NumberOfServerInstances);
 
                 Console.Write("Receiving data.......");
-                A = br.ReadInt32();
-                B = br.ReadInt32();
                 S = br.ReadString();
                 Console.WriteLine("Done.");
                 string[] inarr = S.Split();

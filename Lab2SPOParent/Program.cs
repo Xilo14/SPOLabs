@@ -8,9 +8,8 @@ namespace Lab2SPO
 {
     class PipeParent
     {
-        static int a;// = 1;
-        static int b;// = 4;
-        static string s;
+        static string NamePipe = "PleaseFindMe";
+        static string s,a,b;
 
         static NamedPipeServerStream pipeParent;
         static void Main()
@@ -18,6 +17,7 @@ namespace Lab2SPO
             Input();
 
             Process proc = new Process();
+            proc.StartInfo.Arguments = a.ToString() + ' ' + b.ToString();
             proc.StartInfo.FileName = @"D:\Учёба\CiSharp2019Studio\spo 2020\Lab2SPOChild\bin\Release\Lab2SPOChild.exe";
             proc.Start();
             Thread.Sleep(1000);
@@ -31,13 +31,12 @@ namespace Lab2SPO
         {
 
             Console.WriteLine("Input Array: ");
-            s = Console.ReadLine();    
+            s = Console.ReadLine();
 
             Console.WriteLine("Input a: ");
-            a = Convert.ToInt32(Console.ReadLine());
-
+            a = Console.ReadLine();
             Console.WriteLine("Input b: ");
-            b = Convert.ToInt32(Console.ReadLine());
+            b = Console.ReadLine();
         }
         private static void ServerThread()
         {
@@ -53,8 +52,6 @@ namespace Lab2SPO
                     if (pipeParent.IsConnected == true)
                     {
                         Console.WriteLine("Connected.");
-                        bw.Write(a);
-                        bw.Write(b);
                         bw.Write(s);
                     }
                     pipeParent.WaitForPipeDrain();
