@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classspo1_1_1_properties_1_1_resources" kind="class" prot="package">
+    <compoundname>spo1::Properties::Resources</compoundname>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classspo1_1_1_properties_1_1_resources_1aa1f20d2759fb09cfe834570bbfb5b4d2" prot="private" static="yes" mutable="no">
+        <type>global::System.Resources.ResourceManager</type>
+        <definition>global::System.Resources.ResourceManager spo1.Properties.Resources.resourceMan</definition>
+        <argsstring></argsstring>
+        <name>resourceMan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" line="28" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classspo1_1_1_properties_1_1_resources_1a703ee61bb30f4fef2a6ec431b4e0bfd3" prot="private" static="yes" mutable="no">
+        <type>global::System.Globalization.CultureInfo</type>
+        <definition>global::System.Globalization.CultureInfo spo1.Properties.Resources.resourceCulture</definition>
+        <argsstring></argsstring>
+        <name>resourceCulture</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" line="30" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classspo1_1_1_properties_1_1_resources_1a8e799a2f27983f57b477c5441fdf30c7" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Resources.ResourceManager</type>
+        <definition>global::System.Resources.ResourceManager spo1.Properties.Resources.ResourceManager</definition>
+        <argsstring></argsstring>
+        <name>ResourceManager</name>
+        <briefdescription>
+<para>Возврат кэшированного экземпляра ResourceManager, используемого этим классом. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" line="41" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classspo1_1_1_properties_1_1_resources_1a88a51b916c5240d91ac1c719dd5c592e" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>global::System.Globalization.CultureInfo</type>
+        <definition>global::System.Globalization.CultureInfo spo1.Properties.Resources.Culture</definition>
+        <argsstring></argsstring>
+        <name>Culture</name>
+        <briefdescription>
+<para>Переопределяет свойство CurrentUICulture текущего потока для всех подстановки ресурсов с помощью этого класса ресурсов со строгим типом. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" line="59" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-func">
+      <memberdef kind="function" id="classspo1_1_1_properties_1_1_resources_1afd4c341a85f549107f1061f8d07d8170" prot="package" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>spo1.Properties.Resources.Resources</definition>
+        <argsstring>()</argsstring>
+        <name>Resources</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" line="33" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" bodystart="33" bodyend="35"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Класс ресурсов со строгим типом для поиска локализованных строк и пр. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="30">
+        <label>spo1.Properties.Resources</label>
+        <link refid="classspo1_1_1_properties_1_1_resources"/>
+        <childnode refid="30" relation="usage">
+          <edgelabel>resourceMan</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" line="26" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties/Resources.Designer.cs" bodystart="25" bodyend="70"/>
+    <listofallmembers>
+      <member refid="classspo1_1_1_properties_1_1_resources_1a88a51b916c5240d91ac1c719dd5c592e" prot="package" virt="non-virtual"><scope>spo1::Properties::Resources</scope><name>Culture</name></member>
+      <member refid="classspo1_1_1_properties_1_1_resources_1a703ee61bb30f4fef2a6ec431b4e0bfd3" prot="private" virt="non-virtual"><scope>spo1::Properties::Resources</scope><name>resourceCulture</name></member>
+      <member refid="classspo1_1_1_properties_1_1_resources_1aa1f20d2759fb09cfe834570bbfb5b4d2" prot="private" virt="non-virtual"><scope>spo1::Properties::Resources</scope><name>resourceMan</name></member>
+      <member refid="classspo1_1_1_properties_1_1_resources_1a8e799a2f27983f57b477c5441fdf30c7" prot="package" virt="non-virtual"><scope>spo1::Properties::Resources</scope><name>ResourceManager</name></member>
+      <member refid="classspo1_1_1_properties_1_1_resources_1afd4c341a85f549107f1061f8d07d8170" prot="package" virt="non-virtual"><scope>spo1::Properties::Resources</scope><name>Resources</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

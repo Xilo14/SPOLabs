@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespacespo__child__forms" kind="namespace">
+    <compoundname>spo_child_forms</compoundname>
+    <innerclass refid="classspo__child__forms_1_1_main_form" prot="public">spo_child_forms::MainForm</innerclass>
+    <innerclass refid="classspo__child__forms_1_1_program" prot="public">spo_child_forms::Program</innerclass>
+    <innernamespace refid="namespacespo__child__forms_1_1_properties">spo_child_forms::Properties</innernamespace>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" line="15" column="1"/>
+  </compounddef>
+</doxygen>

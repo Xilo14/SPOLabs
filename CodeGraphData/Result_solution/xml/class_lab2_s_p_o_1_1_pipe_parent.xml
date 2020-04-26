@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_lab2_s_p_o_1_1_pipe_parent" kind="class" prot="public">
+    <compoundname>Lab2SPO::PipeParent</compoundname>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="class_lab2_s_p_o_1_1_pipe_parent_1aeb33e1734e444328629c6c2ba071ab27" prot="private" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Lab2SPO.PipeParent.a</definition>
+        <argsstring></argsstring>
+        <name>a</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" line="11" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" bodystart="11" bodyend="-1"/>
+        <referencedby refid="class_lab2_s_p_o_1_1_pipe_parent_1a3fa489bf3d4d2232dd82b24c78ec674c" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="28" endline="36">Lab2SPO.PipeParent.Input</referencedby>
+        <referencedby refid="class_lab2_s_p_o_1_1_pipe_parent_1abb6e2559ae7a2a72b65c34a26b257b3b" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="37" endline="68">Lab2SPO.PipeParent.ServerThread</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_lab2_s_p_o_1_1_pipe_parent_1a58ec70c672bcaeb92a6629a724b9d994" prot="private" static="yes" mutable="no">
+        <type>int</type>
+        <definition>int Lab2SPO.PipeParent.b</definition>
+        <argsstring></argsstring>
+        <name>b</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" line="12" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" bodystart="12" bodyend="-1"/>
+        <referencedby refid="class_lab2_s_p_o_1_1_pipe_parent_1a3fa489bf3d4d2232dd82b24c78ec674c" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="28" endline="36">Lab2SPO.PipeParent.Input</referencedby>
+        <referencedby refid="class_lab2_s_p_o_1_1_pipe_parent_1abb6e2559ae7a2a72b65c34a26b257b3b" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="37" endline="68">Lab2SPO.PipeParent.ServerThread</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="class_lab2_s_p_o_1_1_pipe_parent_1a611f469aa4e9c9a26190a5ffc45c6f52" prot="private" static="yes" mutable="no">
+        <type>NamedPipeServerStream</type>
+        <definition>NamedPipeServerStream Lab2SPO.PipeParent.pipeParent</definition>
+        <argsstring></argsstring>
+        <name>pipeParent</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" line="13" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" bodystart="13" bodyend="-1"/>
+        <referencedby refid="class_lab2_s_p_o_1_1_pipe_parent_1abb6e2559ae7a2a72b65c34a26b257b3b" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="37" endline="68">Lab2SPO.PipeParent.ServerThread</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_lab2_s_p_o_1_1_pipe_parent_1a060002cfd4b2c3062013f0d0b1a69fb3" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Lab2SPO.PipeParent.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" line="14" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" bodystart="14" bodyend="26"/>
+        <references refid="class_lab2_s_p_o_1_1_pipe_parent_1a3fa489bf3d4d2232dd82b24c78ec674c" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="28" endline="36">Lab2SPO.PipeParent.Input</references>
+        <references refid="class_lab2_s_p_o_1_1_pipe_parent_1abb6e2559ae7a2a72b65c34a26b257b3b" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="37" endline="68">Lab2SPO.PipeParent.ServerThread</references>
+      </memberdef>
+      <memberdef kind="function" id="class_lab2_s_p_o_1_1_pipe_parent_1a3fa489bf3d4d2232dd82b24c78ec674c" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Lab2SPO.PipeParent.Input</definition>
+        <argsstring>()</argsstring>
+        <name>Input</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" line="28" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" bodystart="28" bodyend="36"/>
+        <references refid="class_lab2_s_p_o_1_1_pipe_parent_1aeb33e1734e444328629c6c2ba071ab27" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="11">Lab2SPO.PipeParent.a</references>
+        <references refid="class_lab2_s_p_o_1_1_pipe_parent_1a58ec70c672bcaeb92a6629a724b9d994" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="12">Lab2SPO.PipeParent.b</references>
+        <referencedby refid="class_lab2_s_p_o_1_1_pipe_parent_1a060002cfd4b2c3062013f0d0b1a69fb3" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="14" endline="26">Lab2SPO.PipeParent.Main</referencedby>
+      </memberdef>
+      <memberdef kind="function" id="class_lab2_s_p_o_1_1_pipe_parent_1abb6e2559ae7a2a72b65c34a26b257b3b" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Lab2SPO.PipeParent.ServerThread</definition>
+        <argsstring>()</argsstring>
+        <name>ServerThread</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" line="37" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" bodystart="37" bodyend="68"/>
+        <references refid="class_lab2_s_p_o_1_1_pipe_parent_1aeb33e1734e444328629c6c2ba071ab27" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="11">Lab2SPO.PipeParent.a</references>
+        <references refid="class_lab2_s_p_o_1_1_pipe_parent_1a58ec70c672bcaeb92a6629a724b9d994" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="12">Lab2SPO.PipeParent.b</references>
+        <references refid="class_lab2_s_p_o_1_1_pipe_parent_1a611f469aa4e9c9a26190a5ffc45c6f52" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="13">Lab2SPO.PipeParent.pipeParent</references>
+        <referencedby refid="class_lab2_s_p_o_1_1_pipe_parent_1a060002cfd4b2c3062013f0d0b1a69fb3" compoundref="_lab2_s_p_o_parent_2_program_8cs" startline="14" endline="26">Lab2SPO.PipeParent.Main</referencedby>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" line="10" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" bodystart="9" bodyend="69"/>
+    <listofallmembers>
+      <member refid="class_lab2_s_p_o_1_1_pipe_parent_1aeb33e1734e444328629c6c2ba071ab27" prot="private" virt="non-virtual"><scope>Lab2SPO::PipeParent</scope><name>a</name></member>
+      <member refid="class_lab2_s_p_o_1_1_pipe_parent_1a58ec70c672bcaeb92a6629a724b9d994" prot="private" virt="non-virtual"><scope>Lab2SPO::PipeParent</scope><name>b</name></member>
+      <member refid="class_lab2_s_p_o_1_1_pipe_parent_1a3fa489bf3d4d2232dd82b24c78ec674c" prot="private" virt="non-virtual"><scope>Lab2SPO::PipeParent</scope><name>Input</name></member>
+      <member refid="class_lab2_s_p_o_1_1_pipe_parent_1a060002cfd4b2c3062013f0d0b1a69fb3" prot="private" virt="non-virtual"><scope>Lab2SPO::PipeParent</scope><name>Main</name></member>
+      <member refid="class_lab2_s_p_o_1_1_pipe_parent_1a611f469aa4e9c9a26190a5ffc45c6f52" prot="private" virt="non-virtual"><scope>Lab2SPO::PipeParent</scope><name>pipeParent</name></member>
+      <member refid="class_lab2_s_p_o_1_1_pipe_parent_1abb6e2559ae7a2a72b65c34a26b257b3b" prot="private" virt="non-virtual"><scope>Lab2SPO::PipeParent</scope><name>ServerThread</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

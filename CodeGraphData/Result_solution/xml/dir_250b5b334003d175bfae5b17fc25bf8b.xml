@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_250b5b334003d175bfae5b17fc25bf8b" kind="dir">
+    <compoundname>F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent</compoundname>
+    <innerdir refid="dir_ad9287f0c1ec2cdd2531e43429b2a4d7">F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Properties</innerdir>
+    <innerfile refid="_lab2_s_p_o_parent_2_program_8cs">Program.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/"/>
+  </compounddef>
+</doxygen>

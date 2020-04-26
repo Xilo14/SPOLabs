@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classspo2__child_1_1_program" kind="class" prot="public">
+    <compoundname>spo2_child::Program</compoundname>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="classspo2__child_1_1_program_1a04eeec28c45c7f4480a309346f2d84b3" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void spo2_child.Program.Main</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>Main</name>
+        <param>
+          <type>string[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo2_child/Program.cs" line="14" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo2_child/Program.cs" bodystart="14" bodyend="34"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo2_child/Program.cs" line="13" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo2_child/Program.cs" bodystart="12" bodyend="35"/>
+    <listofallmembers>
+      <member refid="classspo2__child_1_1_program_1a04eeec28c45c7f4480a309346f2d84b3" prot="private" virt="non-virtual"><scope>spo2_child::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

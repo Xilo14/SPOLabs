@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="classspo1_1_1_form1" kind="class"><name>spo1::Form1</name>
+    <member refid="classspo1_1_1_form1_1af5808a370ad010ac0c9ec7b355ca36c8" kind="variable"><name>components</name></member>
+    <member refid="classspo1_1_1_form1_1a7944fabdc87229224a2fa6295fb03ef6" kind="variable"><name>textBox1</name></member>
+    <member refid="classspo1_1_1_form1_1aa0266b7134d448b983d73f3ba22f5e0a" kind="variable"><name>button1</name></member>
+    <member refid="classspo1_1_1_form1_1a82abf9a42a9090acf12639c564a581cb" kind="variable"><name>button2</name></member>
+    <member refid="classspo1_1_1_form1_1a110faefca9e944171fb135b4063eb106" kind="variable"><name>button3</name></member>
+    <member refid="classspo1_1_1_form1_1a454ff8ffc970d634355c981e6512117c" kind="variable"><name>label1</name></member>
+    <member refid="classspo1_1_1_form1_1a388007fcbb5a1e8f2113d9961a85f8e8" kind="function"><name>Form1</name></member>
+    <member refid="classspo1_1_1_form1_1aff2246476b6c72eeed7b8cfecd0dc97e" kind="function"><name>Button1_Click</name></member>
+    <member refid="classspo1_1_1_form1_1a7dc180b05d2cfd9ae85e37fc30fc3222" kind="function"><name>Button2_Click</name></member>
+    <member refid="classspo1_1_1_form1_1a1141922c809a8d8e443e9cd74a5e8449" kind="function"><name>Button3_Click</name></member>
+    <member refid="classspo1_1_1_form1_1a00632067b04096137e4a46a98c15eb4c" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classspo1_1_1_form1_1a9dd5919ae708ebf93f7ac42653c262e3" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classspo1_1_1_program" kind="class"><name>spo1::Program</name>
+    <member refid="classspo1_1_1_program_1a2fbfebd681465798fe0feb51d7ba3da1" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_win32" kind="namespace"><name>Microsoft::Win32</name>
+  </compound>
+  <compound refid="namespacespo1" kind="namespace"><name>spo1</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_component_model" kind="namespace"><name>System::ComponentModel</name>
+  </compound>
+  <compound refid="namespace_system_1_1_data" kind="namespace"><name>System::Data</name>
+  </compound>
+  <compound refid="namespace_system_1_1_drawing" kind="namespace"><name>System::Drawing</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="namespace_system_1_1_windows_1_1_forms" kind="namespace"><name>System::Windows::Forms</name>
+  </compound>
+  <compound refid="_form1_8cs" kind="file"><name>Form1.cs</name>
+  </compound>
+  <compound refid="_form1_8_designer_8cs" kind="file"><name>Form1.Designer.cs</name>
+  </compound>
+  <compound refid="_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="dir_ea5f6716cc82a75f1a65582132c18870" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik</name>
+  </compound>
+  <compound refid="dir_3a581ba30d25676e4b797b1f96d53b45" kind="dir"><name>F:</name>
+  </compound>
+  <compound refid="dir_20d3af008f35d82a77ae36190ae068f1" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1</name>
+  </compound>
+  <compound refid="dir_74e550b665869a247b6c3e1ed3d9579b" kind="dir"><name>F:/Repos</name>
+  </compound>
+  <compound refid="dir_28ecd0a4cb59e61e10504d83f58727fa" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1</name>
+  </compound>
+  <compound refid="dir_866eb493ee19cfa3c678d535aed4fd98" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs</name>
+  </compound>
+  <compound refid="dir_54d4fd29c706e1e53d7619e280742118" kind="dir"><name>F:/Repos/Visual stdio</name>
+  </compound>
+</doxygenindex>

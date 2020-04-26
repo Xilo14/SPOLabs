@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classspo__child__forms_1_1_properties_1_1_settings" kind="class" prot="package">
+    <compoundname>spo_child_forms::Properties::Settings</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">ApplicationSettingsBase</basecompoundref>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classspo__child__forms_1_1_properties_1_1_settings_1acb31bbb673b1209d2acf4931cc74e972" prot="private" static="yes" mutable="no">
+        <type><ref refid="classspo__child__forms_1_1_properties_1_1_settings" kindref="compound">Settings</ref></type>
+        <definition>Settings spo_child_forms.Properties.Settings.defaultInstance</definition>
+        <argsstring></argsstring>
+        <name>defaultInstance</name>
+        <initializer>= ((<ref refid="classspo__child__forms_1_1_properties_1_1_settings" kindref="compound">Settings</ref>)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new <ref refid="classspo__child__forms_1_1_properties_1_1_settings" kindref="compound">Settings</ref>())))</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Properties/Settings.Designer.cs" line="20" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Properties/Settings.Designer.cs" bodystart="20" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classspo__child__forms_1_1_properties_1_1_settings_1a070e16c66922727e87a8bdda233aa7c0" prot="public" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type><ref refid="classspo__child__forms_1_1_properties_1_1_settings" kindref="compound">Settings</ref></type>
+        <definition>Settings spo_child_forms.Properties.Settings.Default</definition>
+        <argsstring></argsstring>
+        <name>Default</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Properties/Settings.Designer.cs" line="22" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Properties/Settings.Designer.cs" bodystart="23" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="40">
+        <label>global::SystemConfiguration::ApplicationSettingsBase</label>
+      </node>
+      <node id="39">
+        <label>spo_child_forms.Properties.Settings</label>
+        <link refid="classspo__child__forms_1_1_properties_1_1_settings"/>
+        <childnode refid="40" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="42">
+        <label>global::SystemConfiguration::ApplicationSettingsBase</label>
+      </node>
+      <node id="41">
+        <label>spo_child_forms.Properties.Settings</label>
+        <link refid="classspo__child__forms_1_1_properties_1_1_settings"/>
+        <childnode refid="42" relation="public-inheritance">
+        </childnode>
+        <childnode refid="41" relation="usage">
+          <edgelabel>defaultInstance</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Properties/Settings.Designer.cs" line="18" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Properties/Settings.Designer.cs" bodystart="17" bodyend="29"/>
+    <listofallmembers>
+      <member refid="classspo__child__forms_1_1_properties_1_1_settings_1a070e16c66922727e87a8bdda233aa7c0" prot="public" virt="non-virtual"><scope>spo_child_forms::Properties::Settings</scope><name>Default</name></member>
+      <member refid="classspo__child__forms_1_1_properties_1_1_settings_1acb31bbb673b1209d2acf4931cc74e972" prot="private" virt="non-virtual"><scope>spo_child_forms::Properties::Settings</scope><name>defaultInstance</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

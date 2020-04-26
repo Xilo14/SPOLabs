@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classspo1_1_1_form1" kind="class" prot="public">
+    <compoundname>spo1::Form1</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Form</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classspo1_1_1_form1_1af5808a370ad010ac0c9ec7b355ca36c8" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer spo1.Form1.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>Обязательная переменная конструктора. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" line="8" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" bodystart="8" bodyend="-1"/>
+        <referencedby refid="classspo1_1_1_form1_1a9dd5919ae708ebf93f7ac42653c262e3" compoundref="_form1_8_designer_8cs" startline="14" endline="21">spo1.Form1.Dispose</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classspo1_1_1_form1_1a7944fabdc87229224a2fa6295fb03ef6" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.TextBox</type>
+        <definition>System.Windows.Forms.TextBox spo1.Form1.textBox1</definition>
+        <argsstring></argsstring>
+        <name>textBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" line="115" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" bodystart="115" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classspo1_1_1_form1_1aa0266b7134d448b983d73f3ba22f5e0a" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button spo1.Form1.button1</definition>
+        <argsstring></argsstring>
+        <name>button1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" line="116" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" bodystart="116" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classspo1_1_1_form1_1a82abf9a42a9090acf12639c564a581cb" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button spo1.Form1.button2</definition>
+        <argsstring></argsstring>
+        <name>button2</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" line="117" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" bodystart="117" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classspo1_1_1_form1_1a110faefca9e944171fb135b4063eb106" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Button</type>
+        <definition>System.Windows.Forms.Button spo1.Form1.button3</definition>
+        <argsstring></argsstring>
+        <name>button3</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" line="118" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" bodystart="118" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classspo1_1_1_form1_1a454ff8ffc970d634355c981e6512117c" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.Label</type>
+        <definition>System.Windows.Forms.Label spo1.Form1.label1</definition>
+        <argsstring></argsstring>
+        <name>label1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" line="119" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" bodystart="119" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classspo1_1_1_form1_1a388007fcbb5a1e8f2113d9961a85f8e8" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>spo1.Form1.Form1</definition>
+        <argsstring>()</argsstring>
+        <name>Form1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" line="17" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" bodystart="17" bodyend="25"/>
+        <references refid="classspo1_1_1_form1_1a00632067b04096137e4a46a98c15eb4c" compoundref="_form1_8_designer_8cs" startline="29" endline="111">spo1.Form1.InitializeComponent</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classspo1_1_1_form1_1aff2246476b6c72eeed7b8cfecd0dc97e" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void spo1.Form1.Button1_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Button1_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" line="27" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" bodystart="27" bodyend="36"/>
+      </memberdef>
+      <memberdef kind="function" id="classspo1_1_1_form1_1a7dc180b05d2cfd9ae85e37fc30fc3222" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void spo1.Form1.Button2_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Button2_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" line="37" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" bodystart="37" bodyend="46"/>
+      </memberdef>
+      <memberdef kind="function" id="classspo1_1_1_form1_1a1141922c809a8d8e443e9cd74a5e8449" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void spo1.Form1.Button3_Click</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>Button3_Click</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" line="48" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" bodystart="48" bodyend="55"/>
+      </memberdef>
+      <memberdef kind="function" id="classspo1_1_1_form1_1a00632067b04096137e4a46a98c15eb4c" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void spo1.Form1.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Требуемый метод для поддержки конструктора — не изменяйте содержимое этого метода с помощью редактора кода. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" line="29" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" bodystart="29" bodyend="111"/>
+        <referencedby refid="classspo1_1_1_form1_1a388007fcbb5a1e8f2113d9961a85f8e8" compoundref="_form1_8cs" startline="17" endline="25">spo1.Form1.Form1</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classspo1_1_1_form1_1a9dd5919ae708ebf93f7ac42653c262e3" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void spo1.Form1.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Освободить все используемые ресурсы. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>истинно, если управляемый ресурс должен быть удален; иначе ложно.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" line="14" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.Designer.cs" bodystart="14" bodyend="21"/>
+        <references refid="classspo1_1_1_form1_1af5808a370ad010ac0c9ec7b355ca36c8" compoundref="_form1_8_designer_8cs" startline="8">spo1.Form1.components</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="1">
+        <label>Form</label>
+      </node>
+      <node id="0">
+        <label>spo1.Form1</label>
+        <link refid="classspo1_1_1_form1"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="3">
+        <label>Form</label>
+      </node>
+      <node id="4">
+        <label>System</label>
+      </node>
+      <node id="2">
+        <label>spo1.Form1</label>
+        <link refid="classspo1_1_1_form1"/>
+        <childnode refid="3" relation="public-inheritance">
+        </childnode>
+        <childnode refid="4" relation="usage">
+          <edgelabel>label1</edgelabel>
+          <edgelabel>components</edgelabel>
+          <edgelabel>button1</edgelabel>
+          <edgelabel>textBox1</edgelabel>
+          <edgelabel>button2</edgelabel>
+          <edgelabel>button3</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" line="16" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Form1.cs" bodystart="15" bodyend="56"/>
+    <listofallmembers>
+      <member refid="classspo1_1_1_form1_1aa0266b7134d448b983d73f3ba22f5e0a" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>button1</name></member>
+      <member refid="classspo1_1_1_form1_1aff2246476b6c72eeed7b8cfecd0dc97e" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>Button1_Click</name></member>
+      <member refid="classspo1_1_1_form1_1a82abf9a42a9090acf12639c564a581cb" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>button2</name></member>
+      <member refid="classspo1_1_1_form1_1a7dc180b05d2cfd9ae85e37fc30fc3222" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>Button2_Click</name></member>
+      <member refid="classspo1_1_1_form1_1a110faefca9e944171fb135b4063eb106" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>button3</name></member>
+      <member refid="classspo1_1_1_form1_1a1141922c809a8d8e443e9cd74a5e8449" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>Button3_Click</name></member>
+      <member refid="classspo1_1_1_form1_1af5808a370ad010ac0c9ec7b355ca36c8" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>components</name></member>
+      <member refid="classspo1_1_1_form1_1a9dd5919ae708ebf93f7ac42653c262e3" prot="protected" virt="non-virtual"><scope>spo1::Form1</scope><name>Dispose</name></member>
+      <member refid="classspo1_1_1_form1_1a388007fcbb5a1e8f2113d9961a85f8e8" prot="public" virt="non-virtual"><scope>spo1::Form1</scope><name>Form1</name></member>
+      <member refid="classspo1_1_1_form1_1a00632067b04096137e4a46a98c15eb4c" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>InitializeComponent</name></member>
+      <member refid="classspo1_1_1_form1_1a454ff8ffc970d634355c981e6512117c" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>label1</name></member>
+      <member refid="classspo1_1_1_form1_1a7944fabdc87229224a2fa6295fb03ef6" prot="private" virt="non-virtual"><scope>spo1::Form1</scope><name>textBox1</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

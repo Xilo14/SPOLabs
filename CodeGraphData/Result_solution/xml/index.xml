@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.8.6">
+  <compound refid="classspo1_1_1_form1" kind="class"><name>spo1::Form1</name>
+    <member refid="classspo1_1_1_form1_1af5808a370ad010ac0c9ec7b355ca36c8" kind="variable"><name>components</name></member>
+    <member refid="classspo1_1_1_form1_1a7944fabdc87229224a2fa6295fb03ef6" kind="variable"><name>textBox1</name></member>
+    <member refid="classspo1_1_1_form1_1aa0266b7134d448b983d73f3ba22f5e0a" kind="variable"><name>button1</name></member>
+    <member refid="classspo1_1_1_form1_1a82abf9a42a9090acf12639c564a581cb" kind="variable"><name>button2</name></member>
+    <member refid="classspo1_1_1_form1_1a110faefca9e944171fb135b4063eb106" kind="variable"><name>button3</name></member>
+    <member refid="classspo1_1_1_form1_1a454ff8ffc970d634355c981e6512117c" kind="variable"><name>label1</name></member>
+    <member refid="classspo1_1_1_form1_1a388007fcbb5a1e8f2113d9961a85f8e8" kind="function"><name>Form1</name></member>
+    <member refid="classspo1_1_1_form1_1aff2246476b6c72eeed7b8cfecd0dc97e" kind="function"><name>Button1_Click</name></member>
+    <member refid="classspo1_1_1_form1_1a7dc180b05d2cfd9ae85e37fc30fc3222" kind="function"><name>Button2_Click</name></member>
+    <member refid="classspo1_1_1_form1_1a1141922c809a8d8e443e9cd74a5e8449" kind="function"><name>Button3_Click</name></member>
+    <member refid="classspo1_1_1_form1_1a00632067b04096137e4a46a98c15eb4c" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classspo1_1_1_form1_1a9dd5919ae708ebf93f7ac42653c262e3" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classlab1liteversion_1_1_form1" kind="class"><name>lab1liteversion::Form1</name>
+    <member refid="classlab1liteversion_1_1_form1_1ae7c1c9dfd50cbded6c9fce49f55cc2d7" kind="variable"><name>components</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a64a0f1e97259e62ab10bf13c833a3f74" kind="variable"><name>label1</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1ab67f58e85760da9104957b206c059076" kind="variable"><name>textBox1</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a01d2733c16c655f070ed16d2a887ee96" kind="variable"><name>label2</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a1142225cffabc23e45715701b0ae0e90" kind="variable"><name>textBox2</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a2240f8f8c385ae16efcc8aec00e3a0a5" kind="variable"><name>button1</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a05071085aca2638088f3ba90bec66deb" kind="variable"><name>button2</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a97e2422558e32ad5c0844f21ec1602c2" kind="variable"><name>button3</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a89c593adc25ee01b762035a2871f0a86" kind="variable"><name>button4</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1abe55c4e6deecca6203836fc3ffeb952b" kind="function"><name>Form1</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a5d2f0725e7f0de4f524e6c2082706950" kind="function"><name>Button1_Click</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a16ccee7849ff4f389620b12e9f2d4113" kind="function"><name>Button2_Click</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1ad881950288e3fea40bc136fc02a13207" kind="function"><name>Button3_Click</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1ad0b8326835e96211dfd3e90aea1dbe4f" kind="function"><name>Button4_Click</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a5c8635e74550ce594e62c65526ff5f5a" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classlab1liteversion_1_1_form1_1a0cc88e4c9eaddaac14f7ec7996577aac" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="classspo__child__forms_1_1_main_form" kind="class"><name>spo_child_forms::MainForm</name>
+    <member refid="classspo__child__forms_1_1_main_form_1a2df023aea2ac31c50ec8730bd97c1a8d" kind="variable"><name>server_handle_in</name></member>
+    <member refid="classspo__child__forms_1_1_main_form_1a3cc4c6da9f1c195670939b3bf9fe687c" kind="variable"><name>server_handle_out</name></member>
+    <member refid="classspo__child__forms_1_1_main_form_1a47a0e8ac7fab997d422acf9352831232" kind="variable"><name>A</name></member>
+    <member refid="classspo__child__forms_1_1_main_form_1a5773e87817274bd9b53038eea1227d1f" kind="variable"><name>x</name></member>
+    <member refid="classspo__child__forms_1_1_main_form_1a36696d68477d088bc26793dea19e0ea1" kind="variable"><name>components</name></member>
+    <member refid="classspo__child__forms_1_1_main_form_1aa7ceaebdab9be6e81a5a1294049ce4f2" kind="variable"><name>richTextBox1</name></member>
+    <member refid="classspo__child__forms_1_1_main_form_1a6b977f903aefd4aecdcce1db39a643e4" kind="function"><name>MainForm</name></member>
+    <member refid="classspo__child__forms_1_1_main_form_1ad17e604b01392f573d9bd2b4d0a2b331" kind="function"><name>MainForm_Load</name></member>
+    <member refid="classspo__child__forms_1_1_main_form_1a39c8fad064ef1768b20f5a235e5dc0ca" kind="function"><name>InitializeComponent</name></member>
+    <member refid="classspo__child__forms_1_1_main_form_1a8e6c0954e4a15d45513df5b003b093c5" kind="function"><name>Dispose</name></member>
+  </compound>
+  <compound refid="class_lab2_s_p_o__child_1_1_pipe_child" kind="class"><name>Lab2SPO_child::PipeChild</name>
+    <member refid="class_lab2_s_p_o__child_1_1_pipe_child_1ab92c5994c4a32788045c9942144be949" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="class_lab2_s_p_o_1_1_pipe_parent" kind="class"><name>Lab2SPO::PipeParent</name>
+    <member refid="class_lab2_s_p_o_1_1_pipe_parent_1aeb33e1734e444328629c6c2ba071ab27" kind="variable"><name>a</name></member>
+    <member refid="class_lab2_s_p_o_1_1_pipe_parent_1a58ec70c672bcaeb92a6629a724b9d994" kind="variable"><name>b</name></member>
+    <member refid="class_lab2_s_p_o_1_1_pipe_parent_1a611f469aa4e9c9a26190a5ffc45c6f52" kind="variable"><name>pipeParent</name></member>
+    <member refid="class_lab2_s_p_o_1_1_pipe_parent_1a060002cfd4b2c3062013f0d0b1a69fb3" kind="function"><name>Main</name></member>
+    <member refid="class_lab2_s_p_o_1_1_pipe_parent_1a3fa489bf3d4d2232dd82b24c78ec674c" kind="function"><name>Input</name></member>
+    <member refid="class_lab2_s_p_o_1_1_pipe_parent_1abb6e2559ae7a2a72b65c34a26b257b3b" kind="function"><name>ServerThread</name></member>
+  </compound>
+  <compound refid="classspo1_1_1_program" kind="class"><name>spo1::Program</name>
+    <member refid="classspo1_1_1_program_1a2fbfebd681465798fe0feb51d7ba3da1" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="classspo__child__forms_1_1_program" kind="class"><name>spo_child_forms::Program</name>
+    <member refid="classspo__child__forms_1_1_program_1a61b7c0b05f9a6c28cc4e33edf07b8f59" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="classspo2__parent_1_1_program" kind="class"><name>spo2_parent::Program</name>
+    <member refid="classspo2__parent_1_1_program_1acdd01975b57ff93e5ac46a98b59ecb90" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="classlab1liteversion_1_1_program" kind="class"><name>lab1liteversion::Program</name>
+    <member refid="classlab1liteversion_1_1_program_1a1d77496a6a465aaa25bc42b8c25b6229" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="classspo2__child_1_1_program" kind="class"><name>spo2_child::Program</name>
+    <member refid="classspo2__child_1_1_program_1a04eeec28c45c7f4480a309346f2d84b3" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="classspo1_1_1_properties_1_1_resources" kind="class"><name>spo1::Properties::Resources</name>
+    <member refid="classspo1_1_1_properties_1_1_resources_1aa1f20d2759fb09cfe834570bbfb5b4d2" kind="variable"><name>resourceMan</name></member>
+    <member refid="classspo1_1_1_properties_1_1_resources_1a703ee61bb30f4fef2a6ec431b4e0bfd3" kind="variable"><name>resourceCulture</name></member>
+    <member refid="classspo1_1_1_properties_1_1_resources_1a8e799a2f27983f57b477c5441fdf30c7" kind="property"><name>ResourceManager</name></member>
+    <member refid="classspo1_1_1_properties_1_1_resources_1a88a51b916c5240d91ac1c719dd5c592e" kind="property"><name>Culture</name></member>
+    <member refid="classspo1_1_1_properties_1_1_resources_1afd4c341a85f549107f1061f8d07d8170" kind="function"><name>Resources</name></member>
+  </compound>
+  <compound refid="classspo__child__forms_1_1_properties_1_1_resources" kind="class"><name>spo_child_forms::Properties::Resources</name>
+    <member refid="classspo__child__forms_1_1_properties_1_1_resources_1ab799243cb8c8f086221aef135bada799" kind="variable"><name>resourceMan</name></member>
+    <member refid="classspo__child__forms_1_1_properties_1_1_resources_1a6d275257031928d57b1323727228aed8" kind="variable"><name>resourceCulture</name></member>
+    <member refid="classspo__child__forms_1_1_properties_1_1_resources_1a5a283cf96739674eb760e0b3e1a6f428" kind="property"><name>ResourceManager</name></member>
+    <member refid="classspo__child__forms_1_1_properties_1_1_resources_1a0a73b9d3f623f639e04cd887528bd27c" kind="property"><name>Culture</name></member>
+    <member refid="classspo__child__forms_1_1_properties_1_1_resources_1adf4bf534865e87c3de566db153ab823f" kind="function"><name>Resources</name></member>
+  </compound>
+  <compound refid="classlab1liteversion_1_1_properties_1_1_resources" kind="class"><name>lab1liteversion::Properties::Resources</name>
+    <member refid="classlab1liteversion_1_1_properties_1_1_resources_1a54fd68985e2af6c78dce5502f809c0bf" kind="variable"><name>resourceMan</name></member>
+    <member refid="classlab1liteversion_1_1_properties_1_1_resources_1a0726f6ec8a7d78d1337debd611a1f301" kind="variable"><name>resourceCulture</name></member>
+    <member refid="classlab1liteversion_1_1_properties_1_1_resources_1acec3099de3e3925d9bf6762969ad8d31" kind="property"><name>ResourceManager</name></member>
+    <member refid="classlab1liteversion_1_1_properties_1_1_resources_1ab68779946549a9af96e54c31aa4bd84c" kind="property"><name>Culture</name></member>
+    <member refid="classlab1liteversion_1_1_properties_1_1_resources_1ab1e5b9b12873f9bef5df1d51f5cc1f53" kind="function"><name>Resources</name></member>
+  </compound>
+  <compound refid="classspo1_1_1_properties_1_1_settings" kind="class"><name>spo1::Properties::Settings</name>
+    <member refid="classspo1_1_1_properties_1_1_settings_1a8765c79d206a3d0777b4f06f5f74ab82" kind="variable"><name>defaultInstance</name></member>
+    <member refid="classspo1_1_1_properties_1_1_settings_1ada7223b029718ed94d07c1fd313c5135" kind="property"><name>Default</name></member>
+  </compound>
+  <compound refid="classspo__child__forms_1_1_properties_1_1_settings" kind="class"><name>spo_child_forms::Properties::Settings</name>
+    <member refid="classspo__child__forms_1_1_properties_1_1_settings_1acb31bbb673b1209d2acf4931cc74e972" kind="variable"><name>defaultInstance</name></member>
+    <member refid="classspo__child__forms_1_1_properties_1_1_settings_1a070e16c66922727e87a8bdda233aa7c0" kind="property"><name>Default</name></member>
+  </compound>
+  <compound refid="classlab1liteversion_1_1_properties_1_1_settings" kind="class"><name>lab1liteversion::Properties::Settings</name>
+    <member refid="classlab1liteversion_1_1_properties_1_1_settings_1af9cd208afd4fd2e09272d3b0e7cbca5e" kind="variable"><name>defaultInstance</name></member>
+    <member refid="classlab1liteversion_1_1_properties_1_1_settings_1a17c7d2a5ca866d62b5ecde6d41154fd6" kind="property"><name>Default</name></member>
+  </compound>
+  <compound refid="namespacelab1liteversion" kind="namespace"><name>lab1liteversion</name>
+  </compound>
+  <compound refid="namespacelab1liteversion_1_1_properties" kind="namespace"><name>lab1liteversion::Properties</name>
+  </compound>
+  <compound refid="namespace_lab2_s_p_o" kind="namespace"><name>Lab2SPO</name>
+  </compound>
+  <compound refid="namespace_lab2_s_p_o__child" kind="namespace"><name>Lab2SPO_child</name>
+  </compound>
+  <compound refid="namespace_microsoft_1_1_win32" kind="namespace"><name>Microsoft::Win32</name>
+  </compound>
+  <compound refid="namespacespo1" kind="namespace"><name>spo1</name>
+  </compound>
+  <compound refid="namespacespo1_1_1_properties" kind="namespace"><name>spo1::Properties</name>
+  </compound>
+  <compound refid="namespacespo2__child" kind="namespace"><name>spo2_child</name>
+  </compound>
+  <compound refid="namespacespo2__parent" kind="namespace"><name>spo2_parent</name>
+  </compound>
+  <compound refid="namespacespo__child__forms" kind="namespace"><name>spo_child_forms</name>
+  </compound>
+  <compound refid="namespacespo__child__forms_1_1_properties" kind="namespace"><name>spo_child_forms::Properties</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_component_model" kind="namespace"><name>System::ComponentModel</name>
+  </compound>
+  <compound refid="namespace_system_1_1_data" kind="namespace"><name>System::Data</name>
+  </compound>
+  <compound refid="namespace_system_1_1_diagnostics" kind="namespace"><name>System::Diagnostics</name>
+  </compound>
+  <compound refid="namespace_system_1_1_drawing" kind="namespace"><name>System::Drawing</name>
+  </compound>
+  <compound refid="namespace_system_1_1_i_o" kind="namespace"><name>System::IO</name>
+  </compound>
+  <compound refid="namespace_system_1_1_i_o_1_1_pipes" kind="namespace"><name>System::IO::Pipes</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_reflection" kind="namespace"><name>System::Reflection</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_compiler_services" kind="namespace"><name>System::Runtime::CompilerServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_runtime_1_1_interop_services" kind="namespace"><name>System::Runtime::InteropServices</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading" kind="namespace"><name>System::Threading</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="namespace_system_1_1_windows_1_1_forms" kind="namespace"><name>System::Windows::Forms</name>
+  </compound>
+  <compound refid="_dvornik_2_lab1_2spo1_2_form1_8cs" kind="file"><name>Form1.cs</name>
+  </compound>
+  <compound refid="_dyachenko_2lab1liteversion_2_form1_8cs" kind="file"><name>Form1.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab1_2spo1_2_form1_8_designer_8cs" kind="file"><name>Form1.Designer.cs</name>
+  </compound>
+  <compound refid="_dyachenko_2lab1liteversion_2_form1_8_designer_8cs" kind="file"><name>Form1.Designer.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab2_2spo2__child_2_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab2_2spo2__parent_2_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab2_2spo__child__forms_2_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab1_2spo1_2_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_dyachenko_2lab1liteversion_2_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_lab2_s_p_o_parent_2_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_lab2_s_p_o_child_2_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab2_2spo2__child_2_properties_2_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab2_2spo2__parent_2_properties_2_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab2_2spo__child__forms_2_properties_2_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab1_2spo1_2_properties_2_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_dyachenko_2lab1liteversion_2_properties_2_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_lab2_s_p_o_parent_2_properties_2_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_lab2_s_p_o_child_2_properties_2_assembly_info_8cs" kind="file"><name>AssemblyInfo.cs</name>
+  </compound>
+  <compound refid="_main_form_8cs" kind="file"><name>MainForm.cs</name>
+  </compound>
+  <compound refid="_main_form_8_designer_8cs" kind="file"><name>MainForm.Designer.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab2_2spo__child__forms_2_properties_2_resources_8_designer_8cs" kind="file"><name>Resources.Designer.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab1_2spo1_2_properties_2_resources_8_designer_8cs" kind="file"><name>Resources.Designer.cs</name>
+  </compound>
+  <compound refid="_dyachenko_2lab1liteversion_2_properties_2_resources_8_designer_8cs" kind="file"><name>Resources.Designer.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab2_2spo__child__forms_2_properties_2_settings_8_designer_8cs" kind="file"><name>Settings.Designer.cs</name>
+  </compound>
+  <compound refid="_dvornik_2_lab1_2spo1_2_properties_2_settings_8_designer_8cs" kind="file"><name>Settings.Designer.cs</name>
+  </compound>
+  <compound refid="_dyachenko_2lab1liteversion_2_properties_2_settings_8_designer_8cs" kind="file"><name>Settings.Designer.cs</name>
+  </compound>
+  <compound refid="dir_ea5f6716cc82a75f1a65582132c18870" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik</name>
+  </compound>
+  <compound refid="dir_32f40938ab147e269159072c3680c9a2" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dyachenko</name>
+  </compound>
+  <compound refid="dir_3a581ba30d25676e4b797b1f96d53b45" kind="dir"><name>F:</name>
+  </compound>
+  <compound refid="dir_20d3af008f35d82a77ae36190ae068f1" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1</name>
+  </compound>
+  <compound refid="dir_b8b0f9fbe3dd89912ab0a39abf42f694" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion</name>
+  </compound>
+  <compound refid="dir_b4c6e15b3b66f7067501fd1585999d23" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2</name>
+  </compound>
+  <compound refid="dir_24b391fd14b031fde80c2e075a885ee9" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Lab2SPOChild</name>
+  </compound>
+  <compound refid="dir_250b5b334003d175bfae5b17fc25bf8b" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent</name>
+  </compound>
+  <compound refid="dir_77b3e6c2c171f6889c25d553426ea3d2" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Lab2SPOChild/Properties</name>
+  </compound>
+  <compound refid="dir_ad9287f0c1ec2cdd2531e43429b2a4d7" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Properties</name>
+  </compound>
+  <compound refid="dir_6ac7d59767830d59b6dd76b701cb8232" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties</name>
+  </compound>
+  <compound refid="dir_85985d54b0746ddaf90cf94a3e907a2f" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1/Properties</name>
+  </compound>
+  <compound refid="dir_c2aae30c9af7dc4c4d7fbd33e56b3102" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Properties</name>
+  </compound>
+  <compound refid="dir_45d6b0c0b5a7c8f02fa5c2bbb9539231" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo2_parent/Properties</name>
+  </compound>
+  <compound refid="dir_0e1bfe9901967574f75ff488bb3a81e4" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo2_child/Properties</name>
+  </compound>
+  <compound refid="dir_74e550b665869a247b6c3e1ed3d9579b" kind="dir"><name>F:/Repos</name>
+  </compound>
+  <compound refid="dir_28ecd0a4cb59e61e10504d83f58727fa" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1/spo1</name>
+  </compound>
+  <compound refid="dir_d41858a5358899f76aa30d62ff0965c8" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo2_child</name>
+  </compound>
+  <compound refid="dir_c7d54fba0f82311f29d7b9a98390eebb" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo2_parent</name>
+  </compound>
+  <compound refid="dir_20ba0098b363cfd6531df9fd480a96c5" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms</name>
+  </compound>
+  <compound refid="dir_866eb493ee19cfa3c678d535aed4fd98" kind="dir"><name>F:/Repos/Visual stdio/SPOLabs</name>
+  </compound>
+  <compound refid="dir_54d4fd29c706e1e53d7619e280742118" kind="dir"><name>F:/Repos/Visual stdio</name>
+  </compound>
+</doxygenindex>

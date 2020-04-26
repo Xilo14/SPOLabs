@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classspo__child__forms_1_1_main_form" kind="class" prot="public">
+    <compoundname>spo_child_forms::MainForm</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Form</basecompoundref>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="classspo__child__forms_1_1_main_form_1a2df023aea2ac31c50ec8730bd97c1a8d" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string spo_child_forms.MainForm.server_handle_in</definition>
+        <argsstring></argsstring>
+        <name>server_handle_in</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" line="18" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" bodystart="18" bodyend="-1"/>
+        <referencedby refid="classspo__child__forms_1_1_main_form_1a6b977f903aefd4aecdcce1db39a643e4" compoundref="_main_form_8cs" startline="21" endline="31">spo_child_forms.MainForm.MainForm</referencedby>
+        <referencedby refid="classspo__child__forms_1_1_main_form_1ad17e604b01392f573d9bd2b4d0a2b331" compoundref="_main_form_8cs" startline="32" endline="63">spo_child_forms.MainForm.MainForm_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classspo__child__forms_1_1_main_form_1a3cc4c6da9f1c195670939b3bf9fe687c" prot="private" static="no" mutable="no">
+        <type>string</type>
+        <definition>string spo_child_forms.MainForm.server_handle_out</definition>
+        <argsstring></argsstring>
+        <name>server_handle_out</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" line="18" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" bodystart="18" bodyend="-1"/>
+        <referencedby refid="classspo__child__forms_1_1_main_form_1a6b977f903aefd4aecdcce1db39a643e4" compoundref="_main_form_8cs" startline="21" endline="31">spo_child_forms.MainForm.MainForm</referencedby>
+        <referencedby refid="classspo__child__forms_1_1_main_form_1ad17e604b01392f573d9bd2b4d0a2b331" compoundref="_main_form_8cs" startline="32" endline="63">spo_child_forms.MainForm.MainForm_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classspo__child__forms_1_1_main_form_1a47a0e8ac7fab997d422acf9352831232" prot="private" static="no" mutable="no">
+        <type>int</type>
+        <definition>int spo_child_forms.MainForm.A</definition>
+        <argsstring></argsstring>
+        <name>A</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" line="19" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" bodystart="19" bodyend="-1"/>
+        <referencedby refid="classspo__child__forms_1_1_main_form_1a6b977f903aefd4aecdcce1db39a643e4" compoundref="_main_form_8cs" startline="21" endline="31">spo_child_forms.MainForm.MainForm</referencedby>
+        <referencedby refid="classspo__child__forms_1_1_main_form_1ad17e604b01392f573d9bd2b4d0a2b331" compoundref="_main_form_8cs" startline="32" endline="63">spo_child_forms.MainForm.MainForm_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classspo__child__forms_1_1_main_form_1a5773e87817274bd9b53038eea1227d1f" prot="private" static="no" mutable="no">
+        <type>int[]</type>
+        <definition>int [] spo_child_forms.MainForm.x</definition>
+        <argsstring></argsstring>
+        <name>x</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" line="20" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" bodystart="20" bodyend="-1"/>
+        <referencedby refid="classspo__child__forms_1_1_main_form_1ad17e604b01392f573d9bd2b4d0a2b331" compoundref="_main_form_8cs" startline="32" endline="63">spo_child_forms.MainForm.MainForm_Load</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classspo__child__forms_1_1_main_form_1a36696d68477d088bc26793dea19e0ea1" prot="private" static="no" mutable="no">
+        <type>System.ComponentModel.IContainer</type>
+        <definition>System.ComponentModel.IContainer spo_child_forms.MainForm.components</definition>
+        <argsstring></argsstring>
+        <name>components</name>
+        <initializer>= null</initializer>
+        <briefdescription>
+<para>Обязательная переменная конструктора. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.Designer.cs" line="8" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.Designer.cs" bodystart="8" bodyend="-1"/>
+        <referencedby refid="classspo__child__forms_1_1_main_form_1a8e6c0954e4a15d45513df5b003b093c5" compoundref="_main_form_8_designer_8cs" startline="14" endline="21">spo_child_forms.MainForm.Dispose</referencedby>
+      </memberdef>
+      <memberdef kind="variable" id="classspo__child__forms_1_1_main_form_1aa7ceaebdab9be6e81a5a1294049ce4f2" prot="private" static="no" mutable="no">
+        <type>System.Windows.Forms.RichTextBox</type>
+        <definition>System.Windows.Forms.RichTextBox spo_child_forms.MainForm.richTextBox1</definition>
+        <argsstring></argsstring>
+        <name>richTextBox1</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.Designer.cs" line="57" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.Designer.cs" bodystart="57" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="classspo__child__forms_1_1_main_form_1a6b977f903aefd4aecdcce1db39a643e4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>spo_child_forms.MainForm.MainForm</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>MainForm</name>
+        <param>
+          <type>string[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" line="21" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" bodystart="21" bodyend="31"/>
+        <references refid="classspo__child__forms_1_1_main_form_1a47a0e8ac7fab997d422acf9352831232" compoundref="_main_form_8cs" startline="19">spo_child_forms.MainForm.A</references>
+        <references refid="classspo__child__forms_1_1_main_form_1a39c8fad064ef1768b20f5a235e5dc0ca" compoundref="_main_form_8_designer_8cs" startline="29" endline="53">spo_child_forms.MainForm.InitializeComponent</references>
+        <references refid="classspo__child__forms_1_1_main_form_1a2df023aea2ac31c50ec8730bd97c1a8d" compoundref="_main_form_8cs" startline="18">spo_child_forms.MainForm.server_handle_in</references>
+        <references refid="classspo__child__forms_1_1_main_form_1a3cc4c6da9f1c195670939b3bf9fe687c" compoundref="_main_form_8cs" startline="18">spo_child_forms.MainForm.server_handle_out</references>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="classspo__child__forms_1_1_main_form_1ad17e604b01392f573d9bd2b4d0a2b331" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void spo_child_forms.MainForm.MainForm_Load</definition>
+        <argsstring>(object sender, EventArgs e)</argsstring>
+        <name>MainForm_Load</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>EventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" line="32" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" bodystart="32" bodyend="63"/>
+        <references refid="classspo__child__forms_1_1_main_form_1a47a0e8ac7fab997d422acf9352831232" compoundref="_main_form_8cs" startline="19">spo_child_forms.MainForm.A</references>
+        <references refid="classspo__child__forms_1_1_main_form_1a2df023aea2ac31c50ec8730bd97c1a8d" compoundref="_main_form_8cs" startline="18">spo_child_forms.MainForm.server_handle_in</references>
+        <references refid="classspo__child__forms_1_1_main_form_1a3cc4c6da9f1c195670939b3bf9fe687c" compoundref="_main_form_8cs" startline="18">spo_child_forms.MainForm.server_handle_out</references>
+        <references refid="classspo__child__forms_1_1_main_form_1a5773e87817274bd9b53038eea1227d1f" compoundref="_main_form_8cs" startline="20">spo_child_forms.MainForm.x</references>
+      </memberdef>
+      <memberdef kind="function" id="classspo__child__forms_1_1_main_form_1a39c8fad064ef1768b20f5a235e5dc0ca" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void spo_child_forms.MainForm.InitializeComponent</definition>
+        <argsstring>()</argsstring>
+        <name>InitializeComponent</name>
+        <briefdescription>
+<para>Требуемый метод для поддержки конструктора — не изменяйте содержимое этого метода с помощью редактора кода. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.Designer.cs" line="29" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.Designer.cs" bodystart="29" bodyend="53"/>
+        <referencedby refid="classspo__child__forms_1_1_main_form_1a6b977f903aefd4aecdcce1db39a643e4" compoundref="_main_form_8cs" startline="21" endline="31">spo_child_forms.MainForm.MainForm</referencedby>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="classspo__child__forms_1_1_main_form_1a8e6c0954e4a15d45513df5b003b093c5" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void spo_child_forms.MainForm.Dispose</definition>
+        <argsstring>(bool disposing)</argsstring>
+        <name>Dispose</name>
+        <param>
+          <type>bool</type>
+          <declname>disposing</declname>
+        </param>
+        <briefdescription>
+<para>Освободить все используемые ресурсы. </para>        </briefdescription>
+        <detaileddescription>
+<para><parameterlist kind="param"><parameteritem>
+<parameternamelist>
+<parametername>disposing</parametername>
+</parameternamelist>
+<parameterdescription>
+<para>истинно, если управляемый ресурс должен быть удален; иначе ложно.</para></parameterdescription>
+</parameteritem>
+</parameterlist>
+</para>        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.Designer.cs" line="14" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.Designer.cs" bodystart="14" bodyend="21"/>
+        <references refid="classspo__child__forms_1_1_main_form_1a36696d68477d088bc26793dea19e0ea1" compoundref="_main_form_8_designer_8cs" startline="8">spo_child_forms.MainForm.components</references>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="11">
+        <label>Form</label>
+      </node>
+      <node id="10">
+        <label>spo_child_forms.MainForm</label>
+        <link refid="classspo__child__forms_1_1_main_form"/>
+        <childnode refid="11" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="13">
+        <label>Form</label>
+      </node>
+      <node id="12">
+        <label>spo_child_forms.MainForm</label>
+        <link refid="classspo__child__forms_1_1_main_form"/>
+        <childnode refid="13" relation="public-inheritance">
+        </childnode>
+        <childnode refid="14" relation="usage">
+          <edgelabel>richTextBox1</edgelabel>
+          <edgelabel>components</edgelabel>
+        </childnode>
+      </node>
+      <node id="14">
+        <label>System</label>
+      </node>
+    </collaborationgraph>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" line="17" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/MainForm.cs" bodystart="16" bodyend="65"/>
+    <listofallmembers>
+      <member refid="classspo__child__forms_1_1_main_form_1a47a0e8ac7fab997d422acf9352831232" prot="private" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>A</name></member>
+      <member refid="classspo__child__forms_1_1_main_form_1a36696d68477d088bc26793dea19e0ea1" prot="private" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>components</name></member>
+      <member refid="classspo__child__forms_1_1_main_form_1a8e6c0954e4a15d45513df5b003b093c5" prot="protected" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>Dispose</name></member>
+      <member refid="classspo__child__forms_1_1_main_form_1a39c8fad064ef1768b20f5a235e5dc0ca" prot="private" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>InitializeComponent</name></member>
+      <member refid="classspo__child__forms_1_1_main_form_1a6b977f903aefd4aecdcce1db39a643e4" prot="public" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>MainForm</name></member>
+      <member refid="classspo__child__forms_1_1_main_form_1ad17e604b01392f573d9bd2b4d0a2b331" prot="private" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>MainForm_Load</name></member>
+      <member refid="classspo__child__forms_1_1_main_form_1aa7ceaebdab9be6e81a5a1294049ce4f2" prot="private" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>richTextBox1</name></member>
+      <member refid="classspo__child__forms_1_1_main_form_1a2df023aea2ac31c50ec8730bd97c1a8d" prot="private" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>server_handle_in</name></member>
+      <member refid="classspo__child__forms_1_1_main_form_1a3cc4c6da9f1c195670939b3bf9fe687c" prot="private" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>server_handle_out</name></member>
+      <member refid="classspo__child__forms_1_1_main_form_1a5773e87817274bd9b53038eea1227d1f" prot="private" virt="non-virtual"><scope>spo_child_forms::MainForm</scope><name>x</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
