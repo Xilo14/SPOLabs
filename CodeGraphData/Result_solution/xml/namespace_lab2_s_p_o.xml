@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_lab2_s_p_o" kind="namespace">
+    <compoundname>Lab2SPO</compoundname>
+    <innerclass refid="class_lab2_s_p_o_1_1_pipe_parent" prot="public">Lab2SPO::PipeParent</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOParent/Program.cs" line="8" column="1"/>
+  </compounddef>
+</doxygen>

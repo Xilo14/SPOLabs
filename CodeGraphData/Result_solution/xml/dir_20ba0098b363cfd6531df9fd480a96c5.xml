@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_20ba0098b363cfd6531df9fd480a96c5" kind="dir">
+    <compoundname>F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms</compoundname>
+    <innerdir refid="dir_c2aae30c9af7dc4c4d7fbd33e56b3102">F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Properties</innerdir>
+    <innerfile refid="_main_form_8cs">MainForm.cs</innerfile>
+    <innerfile refid="_main_form_8_designer_8cs">MainForm.Designer.cs</innerfile>
+    <innerfile refid="_dvornik_2_lab2_2spo__child__forms_2_program_8cs">Program.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classlab1liteversion_1_1_program" kind="class" prot="public">
+    <compoundname>lab1liteversion::Program</compoundname>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="classlab1liteversion_1_1_program_1a1d77496a6a465aaa25bc42b8c25b6229" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void lab1liteversion.Program.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <briefdescription>
+<para>Главная точка входа для приложения. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Program.cs" line="15" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Program.cs" bodystart="15" bodyend="20"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Program.cs" line="10" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Program.cs" bodystart="9" bodyend="21"/>
+    <listofallmembers>
+      <member refid="classlab1liteversion_1_1_program_1a1d77496a6a465aaa25bc42b8c25b6229" prot="private" virt="non-virtual"><scope>lab1liteversion::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

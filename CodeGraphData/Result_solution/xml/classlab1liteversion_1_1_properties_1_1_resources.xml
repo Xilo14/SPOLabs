@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classlab1liteversion_1_1_properties_1_1_resources" kind="class" prot="package">
+    <compoundname>lab1liteversion::Properties::Resources</compoundname>
+      <sectiondef kind="private-static-attrib">
+      <memberdef kind="variable" id="classlab1liteversion_1_1_properties_1_1_resources_1a54fd68985e2af6c78dce5502f809c0bf" prot="private" static="yes" mutable="no">
+        <type>global::System.Resources.ResourceManager</type>
+        <definition>global::System.Resources.ResourceManager lab1liteversion.Properties.Resources.resourceMan</definition>
+        <argsstring></argsstring>
+        <name>resourceMan</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" line="28" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" bodystart="28" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="classlab1liteversion_1_1_properties_1_1_resources_1a0726f6ec8a7d78d1337debd611a1f301" prot="private" static="yes" mutable="no">
+        <type>global::System.Globalization.CultureInfo</type>
+        <definition>global::System.Globalization.CultureInfo lab1liteversion.Properties.Resources.resourceCulture</definition>
+        <argsstring></argsstring>
+        <name>resourceCulture</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" line="30" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" bodystart="30" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="classlab1liteversion_1_1_properties_1_1_resources_1acec3099de3e3925d9bf6762969ad8d31" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="no">
+        <type>global::System.Resources.ResourceManager</type>
+        <definition>global::System.Resources.ResourceManager lab1liteversion.Properties.Resources.ResourceManager</definition>
+        <argsstring></argsstring>
+        <name>ResourceManager</name>
+        <briefdescription>
+<para>Возврат кэшированного экземпляра ResourceManager, используемого этим классом. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" line="41" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" bodystart="42" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="classlab1liteversion_1_1_properties_1_1_resources_1ab68779946549a9af96e54c31aa4bd84c" prot="package" static="yes" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>global::System.Globalization.CultureInfo</type>
+        <definition>global::System.Globalization.CultureInfo lab1liteversion.Properties.Resources.Culture</definition>
+        <argsstring></argsstring>
+        <name>Culture</name>
+        <briefdescription>
+<para>Переопределяет свойство CurrentUICulture текущего потока для всех подстановки ресурсов с помощью этого класса ресурсов со строгим типом. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" line="59" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" bodystart="60" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="package-func">
+      <memberdef kind="function" id="classlab1liteversion_1_1_properties_1_1_resources_1ab1e5b9b12873f9bef5df1d51f5cc1f53" prot="package" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>lab1liteversion.Properties.Resources.Resources</definition>
+        <argsstring>()</argsstring>
+        <name>Resources</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" line="33" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" bodystart="33" bodyend="35"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+<para>Класс ресурсов со строгим типом для поиска локализованных строк и пр. </para>    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <collaborationgraph>
+      <node id="34">
+        <label>lab1liteversion.Properties.Resources</label>
+        <link refid="classlab1liteversion_1_1_properties_1_1_resources"/>
+        <childnode refid="34" relation="usage">
+          <edgelabel>resourceMan</edgelabel>
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" line="26" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dyachenko/lab1liteversion/Properties/Resources.Designer.cs" bodystart="25" bodyend="70"/>
+    <listofallmembers>
+      <member refid="classlab1liteversion_1_1_properties_1_1_resources_1ab68779946549a9af96e54c31aa4bd84c" prot="package" virt="non-virtual"><scope>lab1liteversion::Properties::Resources</scope><name>Culture</name></member>
+      <member refid="classlab1liteversion_1_1_properties_1_1_resources_1a0726f6ec8a7d78d1337debd611a1f301" prot="private" virt="non-virtual"><scope>lab1liteversion::Properties::Resources</scope><name>resourceCulture</name></member>
+      <member refid="classlab1liteversion_1_1_properties_1_1_resources_1a54fd68985e2af6c78dce5502f809c0bf" prot="private" virt="non-virtual"><scope>lab1liteversion::Properties::Resources</scope><name>resourceMan</name></member>
+      <member refid="classlab1liteversion_1_1_properties_1_1_resources_1acec3099de3e3925d9bf6762969ad8d31" prot="package" virt="non-virtual"><scope>lab1liteversion::Properties::Resources</scope><name>ResourceManager</name></member>
+      <member refid="classlab1liteversion_1_1_properties_1_1_resources_1ab1e5b9b12873f9bef5df1d51f5cc1f53" prot="package" virt="non-virtual"><scope>lab1liteversion::Properties::Resources</scope><name>Resources</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

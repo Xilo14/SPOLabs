@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_lab2_s_p_o__child_1_1_pipe_child" kind="class" prot="public">
+    <compoundname>Lab2SPO_child::PipeChild</compoundname>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_lab2_s_p_o__child_1_1_pipe_child_1ab92c5994c4a32788045c9942144be949" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Lab2SPO_child.PipeChild.Main</definition>
+        <argsstring>()</argsstring>
+        <name>Main</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOChild/Program.cs" line="11" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Lab2SPOChild/Program.cs" bodystart="11" bodyend="48"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Lab2SPOChild/Program.cs" line="10" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Lab2SPOChild/Program.cs" bodystart="9" bodyend="49"/>
+    <listofallmembers>
+      <member refid="class_lab2_s_p_o__child_1_1_pipe_child_1ab92c5994c4a32788045c9942144be949" prot="private" virt="non-virtual"><scope>Lab2SPO_child::PipeChild</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

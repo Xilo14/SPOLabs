@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_ea5f6716cc82a75f1a65582132c18870" kind="dir">
+    <compoundname>F:/Repos/Visual stdio/SPOLabs/Dvornik</compoundname>
+    <innerdir refid="dir_20d3af008f35d82a77ae36190ae068f1">F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab1</innerdir>
+    <innerdir refid="dir_b4c6e15b3b66f7067501fd1585999d23">F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="classspo__child__forms_1_1_program" kind="class" prot="public">
+    <compoundname>spo_child_forms::Program</compoundname>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="classspo__child__forms_1_1_program_1a61b7c0b05f9a6c28cc4e33edf07b8f59" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void spo_child_forms.Program.Main</definition>
+        <argsstring>(string[] args)</argsstring>
+        <name>Main</name>
+        <param>
+          <type>string[]</type>
+          <declname>args</declname>
+        </param>
+        <briefdescription>
+<para>Главная точка входа для приложения. </para>        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Program.cs" line="15" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Program.cs" bodystart="15" bodyend="20"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Program.cs" line="10" column="1" bodyfile="F:/Repos/Visual stdio/SPOLabs/Dvornik/Lab2/spo_child_forms/Program.cs" bodystart="9" bodyend="21"/>
+    <listofallmembers>
+      <member refid="classspo__child__forms_1_1_program_1a61b7c0b05f9a6c28cc4e33edf07b8f59" prot="private" virt="non-virtual"><scope>spo_child_forms::Program</scope><name>Main</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>
