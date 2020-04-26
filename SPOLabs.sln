@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreTest", "SemaphoreT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreIncrementer", "SemaphoreIncrementer\SemaphoreIncrementer.csproj", "{8A65398C-650F-446E-B4D8-32F93A9ECE89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemaphoreReader", "SemaphoreReader\SemaphoreReader.csproj", "{2075A76C-049D-4862-B69C-E48CDCDEB067}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -73,6 +75,10 @@ Global
 		{8A65398C-650F-446E-B4D8-32F93A9ECE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A65398C-650F-446E-B4D8-32F93A9ECE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A65398C-650F-446E-B4D8-32F93A9ECE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2075A76C-049D-4862-B69C-E48CDCDEB067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2075A76C-049D-4862-B69C-E48CDCDEB067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2075A76C-049D-4862-B69C-E48CDCDEB067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2075A76C-049D-4862-B69C-E48CDCDEB067}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +96,7 @@ Global
 		{D199B64F-0C63-47D8-B341-460009D8CAC2} = {74678B05-8EB8-4491-A160-22BBD2A4A768}
 		{DDA238D7-5014-4087-BCF3-0A5F5358C97A} = {D199B64F-0C63-47D8-B341-460009D8CAC2}
 		{8A65398C-650F-446E-B4D8-32F93A9ECE89} = {D199B64F-0C63-47D8-B341-460009D8CAC2}
+		{2075A76C-049D-4862-B69C-E48CDCDEB067} = {D199B64F-0C63-47D8-B341-460009D8CAC2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5091B362-FDA3-4674-ABCE-8EBB75190F77}
