@@ -34,11 +34,13 @@ namespace SemaphoreIncrementer
                             writer.Write(Item);
                     }
                     sem.Release();
+
                     Console.Clear();
                     Console.WriteLine("Текущий массив:");
                     foreach (int Item in Array)
                         Console.Write(Item + " ");
                     Thread.Sleep(1000);
+
                     for (int i = 0; i < Array.Length; i++)
                         Array[i]++;
 
