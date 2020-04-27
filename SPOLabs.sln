@@ -40,6 +40,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3EventConsumer", "lab3EventListener\lab3EventConsumer.csproj", "{D557E407-27C6-47E9-B859-68665990073C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab4", "Lab4", "{BA830635-8708-44D2-9738-B3766688E766}"
+	ProjectSection(SolutionItems) = preProject
+		Dvornik\Lab4\WMIDvornikDirectory.js = Dvornik\Lab4\WMIDvornikDirectory.js
+		Dvornik\Lab4\WMIDvornikMonitor.js = Dvornik\Lab4\WMIDvornikMonitor.js
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
